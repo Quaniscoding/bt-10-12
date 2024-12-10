@@ -1,0 +1,30 @@
+.bai10 {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 800px;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin: 10px 0;
+}
